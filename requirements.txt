@@ -3,5 +3,3 @@ pandas
 numpy
 folium
 streamlit-folium
-gspread
-gspread_dataframe
